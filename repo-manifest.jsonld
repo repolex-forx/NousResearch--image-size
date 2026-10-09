@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/image-size/commit/e6dbb45e44b82eedbb81d150a31e4850dcb500d7",
       "git:hexsha": "e6dbb45e44b82eedbb81d150a31e4850dcb500d7",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v2.0.3"
     }
   ]
